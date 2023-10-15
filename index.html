@@ -120,7 +120,7 @@
         </div>
       </div>
     </div>
-    <div class="container" style="margin-top:100px; margin-bottom: 150px;">
+    <div class="container" style="margin-top:100px;">
       <div class="row">
         <div class="col-lg-3 col-md-6 text-center">
           <div class="service-box">
