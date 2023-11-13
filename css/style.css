@@ -419,6 +419,10 @@ img::-moz-selection {
 }
 
 @media (min-width: 768px) {
+
+
+
+
   header {
     min-height: 100%;
   }
@@ -458,6 +462,10 @@ img::-moz-selection {
     position: relative;
     top: -90px;
     font-size: 1.2em !important;
+  }
+
+  h6 {
+    font-size: 12px;
   }
 }
 
