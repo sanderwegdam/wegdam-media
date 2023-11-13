@@ -473,6 +473,10 @@ img::-moz-selection {
   .service-box {
     margin: 20px auto 0;
   }
+
+  h6 {
+    font-size: 14px;
+  }
 }
 
 @media (min-width: 1200px) {
