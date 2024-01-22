@@ -462,168 +462,135 @@
           </div>
         </div>
 
-        <div class="row custom-flex">
-          <div class="col-md-4 content">
-            <div class="card text-center">
-              <a href="http://sanderwegdam.github.io/weer-app" target="_blank">
-                <img
-                  src="img/thumbnails/thumbnail-weer-app.png"
-                  class="card-img-top"
-                  alt="weer-app"
-                />
-              </a>
-              <a href="http://sanderwegdam.github.io/weer-app" target="_blank">
-                <div class="card-body">
-                  <h6 class="card-title">Weer App</h6>
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-md-4 content gap">
-            <div class="card text-center">
-              <a
-                href="http://sanderwegdam.github.io/tip-calculator-app"
-                target="_blank"
-              >
-                <img
-                  src="img/thumbnails/thumbnail-tip-calculator-app.png"
-                  class="card-img-top"
-                  alt="tip-calculator-app"
-                />
-              </a>
-              <a
-                href="http://sanderwegdam.github.io/tip-calculator-app"
-                target="_blank"
-              >
-                <div class="card-body">
-                  <h6 class="card-title">Tip Calculator App</h6>
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-md-4 content gap">
-            <div class="card text-center">
-              <a
-                href="http://sanderwegdam.github.io/faq-accordion"
-                target="_blank"
-              >
-                <img
-                  src="img/thumbnails/thumbnail-faq-accordion.png"
-                  class="card-img-top"
-                  alt="faq-accordion"
-                />
-              </a>
-              <a
-                href="http://sanderwegdam.github.io/faq-accordion"
-                target="_blank"
-              >
-                <div class="card-body">
-                  <h6 class="card-title">FAQ Accordion</h6>
-                </div>
-              </a>
-            </div>
+      <div class="row custom-flex">
+        <div class="col-md-4 content">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/weer-app" target="_blank">
+              <img src="img/thumbnails/thumbnail-weer-app.png" class="card-img-top" alt="weer-app" />
+            </a>
+            <a href="http://sanderwegdam.github.io/weer-app" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Weer App</h6>
+              </div>
+            </a>
           </div>
         </div>
 
-        <div class="row custom-flex">
-          <div class="col-md-4 content">
-            <div class="card text-center">
-              <a
-                href="http://sanderwegdam.github.io/huddle-landing-page"
-                target="_blank"
-              >
-                <img
-                  src="img/thumbnails/thumbnail-huddle-landing-page.png"
-                  class="card-img-top"
-                  alt="huddle-landing-page"
-                />
-              </a>
-              <a
-                href="http://sanderwegdam.github.io/huddle-landing-page"
-                target="_blank"
-              >
-                <div class="card-body">
-                  <h6 class="card-title">Huddle landing page</h6>
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-md-4 content gap">
-            <div class="card text-center">
-              <a
-                href="http://sanderwegdam.github.io/IKEA-landing-page"
-                target="_blank"
-              >
-                <img
-                  src="img/thumbnails/thumbnail-IKEA-landing-page.png"
-                  class="card-img-top"
-                  alt="IKEA-landing-page"
-                />
-              </a>
-              <a
-                href="http://sanderwegdam.github.io/IKEA-landing-page"
-                target="_blank"
-              >
-                <div class="card-body">
-                  <h6 class="card-title">IKEA landing page</h6>
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-md-4 content gap">
-            <div class="card text-center">
-              <a
-                href="http://sanderwegdam.github.io/sunnyside-landing-page"
-                target="_blank"
-              >
-                <img
-                  src="img/thumbnails/thumbnail-sunnyside-landing-page.png"
-                  class="card-img-top"
-                  alt="sunnyside-landing-page"
-                />
-              </a>
-              <a
-                href="http://sanderwegdam.github.io/sunnyside-landing-page"
-                target="_blank"
-              >
-                <div class="card-body">
-                  <h6 class="card-title">Sunnyside landing page</h6>
-                </div>
-              </a>
-            </div>
+        <div class="col-md-4 content gap">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/tip-calculator-app" target="_blank">
+              <img src="img/thumbnails/thumbnail-tip-calculator-app.png" class="card-img-top"
+                alt="tip-calculator-app" />
+            </a>
+            <a href="http://sanderwegdam.github.io/tip-calculator-app" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Tip Calculator App</h6>
+              </div>
+            </a>
           </div>
         </div>
 
-        <div class="row custom-flex" style="padding-inline: 60px">
-          <div class="col-xs-4 col-md-4 content">
-            <div class="card text-center">
-              <a
-                href="http://sanderwegdam.github.io/countries-app"
-                target="_blank"
-              >
-                <img
-                  src="img/thumbnails/thumbnail-countries-app.png"
-                  class="card-img-top"
-                  alt="countries-app"
-                />
-              </a>
-              <a
-                href="http://sanderwegdam.github.io/countries-app"
-                target="_blank"
-              >
-                <div class="card-body">
-                  <h6 class="card-title">Countries App</h6>
-                </div>
-              </a>
-            </div>
+        <div class="col-md-4 content gap">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/faq-accordion" target="_blank">
+              <img src="img/thumbnails/thumbnail-faq-accordion.png" class="card-img-top" alt="faq-accordion" />
+            </a>
+            <a href="http://sanderwegdam.github.io/faq-accordion" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">FAQ Accordion</h6>
+              </div>
+            </a>
           </div>
         </div>
       </div>
-    </section>
+
+      <div class="row custom-flex">
+        <div class="col-md-4 content">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/huddle-landing-page" target="_blank">
+              <img src="img/thumbnails/thumbnail-huddle-landing-page.png" class="card-img-top"
+                alt="huddle-landing-page" />
+            </a>
+            <a href="http://sanderwegdam.github.io/huddle-landing-page" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Huddle landing page</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-4 content gap">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/IKEA-landing-page" target="_blank">
+              <img src="img/thumbnails/thumbnail-IKEA-landing-page.png" class="card-img-top" alt="IKEA-landing-page" />
+            </a>
+            <a href="http://sanderwegdam.github.io/IKEA-landing-page" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">IKEA landing page</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-4 content gap">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/sunnyside-landing-page" target="_blank">
+              <img src="img/thumbnails/thumbnail-sunnyside-landing-page.png" class="card-img-top"
+                alt="sunnyside-landing-page" />
+            </a>
+            <a href="http://sanderwegdam.github.io/sunnyside-landing-page" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Sunnyside landing page</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="row custom-flex">
+        <div class="col-md-4 content">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/countries-app" target="_blank">
+              <img src="img/thumbnails/thumbnail-countries-app.png" class="card-img-top" alt="countries-app" />
+            </a>
+            <a href="http://sanderwegdam.github.io/countries-app" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Countries App</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-4 content gap">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/manage-landing-page" target="_blank">
+              <img src="img/thumbnails/thumbnail-manage-landing-page.png" class="card-img-top"
+                alt="manage-landing-page" />
+            </a>
+            <a href="http://sanderwegdam.github.io/manage-landing-page" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Manage landing page</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-4 content gap">
+          <div class="card text-center">
+            <a href="http://sanderwegdam.github.io/blogr-landing-page" target="_blank">
+              <img src="img/thumbnails/thumbnail-blogr-landing-page.png" class="card-img-top"
+                alt="blogr-landing-page" />
+            </a>
+            <a href="http://sanderwegdam.github.io/blogr-landing-page" target="_blank">
+              <div class="card-body">
+                <h6 class="card-title">Blogr landing page</h6>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
     <footer class="bg-dark" id="CV">
       <div class="container text-center">
